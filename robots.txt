@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vishwaclaudema.vercel.app/sitemap.xml

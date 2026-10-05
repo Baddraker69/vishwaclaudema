@@ -1,0 +1,17 @@
+# Vishwaclaudema
+
+> Start building with Claude the right way, and find the tools worth having. Independent and unofficial. Not made by, endorsed by or affiliated with Anthropic.
+
+## Start building
+- [Start a website or web app](https://vishwaclaudema.vercel.app/start/website/): Sites and web apps (Next.js, React, Astro and the like).
+- [Start an app that uses Claude](https://vishwaclaudema.vercel.app/start/ai-feature/): Anything that sends prompts to Claude through the API or an SDK.
+- [Start a mobile app](https://vishwaclaudema.vercel.app/start/mobile/): Expo, React Native or Swift apps.
+- [Start an automation](https://vishwaclaudema.vercel.app/start/automation/): Scripts, crons, bots and anything that should run without you.
+- [Start a writing or documents project](https://vishwaclaudema.vercel.app/start/writing/): Reports, proposals, research and decks, mostly outside code.
+
+## Discover
+- [Discover](https://vishwaclaudema.vercel.app/discover/): search 3,613 Claude skills, plugins and MCP servers from Anthropic's catalogues, skills.sh, GitHub and the MCP registry.
+- [Full index as JSON](https://vishwaclaudema.vercel.app/data/tools.json): name, kind, repo, description, installs, stars, growth, tasks, flags.
+
+## Learn
+- [This week in Claude](https://vishwaclaudema.vercel.app/week/): weekly changes, checked against Anthropic's pages.
