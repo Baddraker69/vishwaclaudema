@@ -860,3 +860,12 @@ details.pro > summary::-webkit-details-marker { display: none; }
 details.pro > summary .h2::after { content: " +"; color: var(--grey); font-weight: 300; }
 details.pro[open] > summary .h2::after { content: " −"; }
 details.pro > p { margin: 1rem 0; }
+
+/* Find tools: install prompts and the install list */
+.finder .install-row { gap: 0.4rem 1.4rem; }
+.finder .vetted { color: var(--ink); }
+.install-bar { position: sticky; bottom: 0; z-index: 5; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  gap: 0.6rem 1.4rem; background: var(--surface); border-top: 1px solid var(--ink); padding: 0.8rem 0; margin: 0 calc(-1 * clamp(16px, 4.5vw, 4.5rem));
+  padding-inline: clamp(16px, 4.5vw, 4.5rem); }
+.install-bar > div:first-child { display: grid; gap: 0.15rem; min-width: 0; }
+.install-bar #install-names { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 38rem; }
