@@ -10,7 +10,7 @@
 - [Start a writing or documents project](https://vishwaclaudema.vercel.app/start/writing/): Reports, proposals, research and decks, mostly outside code.
 
 ## Discover
-- [Discover](https://vishwaclaudema.vercel.app/discover/): search 3,613 Claude skills, plugins and MCP servers from Anthropic's catalogues, skills.sh, GitHub and the MCP registry.
+- [Discover](https://vishwaclaudema.vercel.app/discover/): search 3,483 Claude skills, plugins and MCP servers from Anthropic's catalogues, skills.sh, GitHub and the MCP registry.
 - [Full index as JSON](https://vishwaclaudema.vercel.app/data/tools.json): name, kind, repo, description, installs, stars, growth, tasks, flags.
 
 ## Learn
