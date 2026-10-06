@@ -869,3 +869,13 @@ details.pro > p { margin: 1rem 0; }
   padding-inline: clamp(16px, 4.5vw, 4.5rem); }
 .install-bar > div:first-child { display: grid; gap: 0.15rem; min-width: 0; }
 .install-bar #install-names { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 38rem; }
+
+/* Page headers: the kolam and the title on one line, the text beneath (like Today's brand header) */
+.hero.hero-stack { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1.4rem; align-items: start; }
+.hero-stack .hero-head { display: flex; align-items: center; gap: clamp(1rem, 3vw, 2.4rem); }
+.hero-stack .hero-head > div { display: grid; gap: 0.6rem; min-width: 0; }
+.hero-stack .hero-head .h1 { max-width: none; }
+.hero-stack .bigmark { order: 0; }
+.hero-stack .bigmark svg { width: clamp(4.5rem, 10vw, 8.5rem); height: auto; }
+.hero-stack .hero-body { display: grid; gap: 1.2rem; max-width: 42rem; }
+@media (max-width: 900px) { .hero-stack .bigmark svg { width: 4rem; height: 4rem; } }

@@ -1,17 +1,36 @@
 # Vishwaclaudema
 
-> Start building with Claude the right way, and find the tools worth having. Independent and unofficial. Not made by, endorsed by or affiliated with Anthropic.
+> Start building with Claude the right way, and find the tools worth having.
 
-## Start building
+## Start a project
+Each starter kit is a one-paste setup prompt for Claude Code, the tools worth installing (each safety-scanned and reviewed), and a first week.
 - [Start a website or web app](https://vishwaclaudema.vercel.app/start/website/): Sites and web apps (Next.js, React, Astro and the like).
 - [Start an app that uses Claude](https://vishwaclaudema.vercel.app/start/ai-feature/): Anything that sends prompts to Claude through the API or an SDK.
 - [Start a mobile app](https://vishwaclaudema.vercel.app/start/mobile/): Expo, React Native or Swift apps.
 - [Start an automation](https://vishwaclaudema.vercel.app/start/automation/): Scripts, crons, bots and anything that should run without you.
 - [Start a writing or documents project](https://vishwaclaudema.vercel.app/start/writing/): Reports, proposals, research and decks, mostly outside code.
 
-## Discover
-- [Discover](https://vishwaclaudema.vercel.app/discover/): search 3,497 Claude skills, plugins and MCP servers from Anthropic's catalogues, skills.sh, GitHub and the MCP registry.
-- [Full index as JSON](https://vishwaclaudema.vercel.app/data/tools.json): name, kind, repo, description, installs, stars, growth, tasks, flags.
+## Improve a project you already have
+- [Tidy your Claude setup](https://vishwaclaudema.vercel.app/improve/setup/): Any project you already work on with Claude.
+- [Make it look better](https://vishwaclaudema.vercel.app/improve/design/): A site or app that works but looks generic or dated.
+- [Sharper words](https://vishwaclaudema.vercel.app/improve/copy/): Headlines, landing pages and calls to action that don't land.
+- [Get found](https://vishwaclaudema.vercel.app/improve/seo/): A public site that search engines and AI answers should cite.
+- [Faster and accessible](https://vishwaclaudema.vercel.app/improve/speed/): Slow pages, poor phone scores, or people who can't use the site with a keyboard or screen reader.
+- [Add a safety net](https://vishwaclaudema.vercel.app/improve/tests/): A project where changes keep breaking things.
+- [Check before launch](https://vishwaclaudema.vercel.app/improve/security/): Anything that handles sign-ins, personal data or payments.
 
 ## Learn
-- [This week in Claude](https://vishwaclaudema.vercel.app/week/): weekly changes, checked against Anthropic's pages.
+- [Getting the most out of Claude](https://vishwaclaudema.vercel.app/learn/claude-app/): 10 steps, from Anthropic's own pages, checked 2026-10-04.
+- [Starting a project with Claude Code](https://vishwaclaudema.vercel.app/learn/claude-code/): 10 steps, from Anthropic's own pages, checked 2026-10-05.
+- [Getting the most out of Routines](https://vishwaclaudema.vercel.app/learn/routines/): 10 steps, from Anthropic's own pages, checked 2026-10-04.
+- [Getting the most out of designs, slides and docs](https://vishwaclaudema.vercel.app/learn/designs-slides-docs/): 10 steps, from Anthropic's own pages, checked 2026-10-04.
+- [Getting the most out of Skills](https://vishwaclaudema.vercel.app/learn/skills/): 10 steps, from Anthropic's own pages, checked 2026-10-04.
+- [Getting the most out of prompting](https://vishwaclaudema.vercel.app/learn/prompting/): 10 steps, from Anthropic's own pages, checked 2026-10-04.
+- [Getting the most out of Chrome & Office](https://vishwaclaudema.vercel.app/learn/chrome-office/): 10 steps, from Anthropic's own pages, checked 2026-10-04.
+- [Getting the most out of Claude Tag](https://vishwaclaudema.vercel.app/learn/claude-tag/): 10 steps, from Anthropic's own pages, checked 2026-10-04.
+- [Getting the most out of the API](https://vishwaclaudema.vercel.app/learn/api/): 10 steps, from Anthropic's own pages, checked 2026-10-04.
+- [This week in Claude](https://vishwaclaudema.vercel.app/week/): what changed in Claude each week, checked against Anthropic's pages.
+
+## Find tools
+- [Find tools](https://vishwaclaudema.vercel.app/discover/): search 3,497 Claude skills, plugins and MCP servers from Anthropic's catalogues, skills.sh, GitHub and the MCP registry, with an install prompt for each.
+- [Full index as JSON](https://vishwaclaudema.vercel.app/data/tools.json): name, kind, repo, description, installs, stars, growth, tasks, flags, and the pinned install command for vetted tools.
