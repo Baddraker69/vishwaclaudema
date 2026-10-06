@@ -34,6 +34,9 @@ function signals(t) {
   if (t.installs) out.push(fmt(t.installs) + " installs");
   if (t.stars) out.push(fmt(t.stars) + " stars");
   if (t.growth) out.push("rising ×" + t.growth);
+  if (t.lists) out.push(t.lists === 1 ? "on an awesome list" : `on ${t.lists} awesome lists`);
+  if (t.hn) out.push(`${t.hn} points on Hacker News`);
+  if (t.curated) out.push("in Best of the web");
   if (t.official === "anthropic") out.push("by Anthropic");
   else if (t.official === "marketplace") out.push("official marketplace");
   else if (t.vendor) out.push("by the vendor");
