@@ -30,6 +30,7 @@ Each starter kit is a one-paste setup prompt for Claude Code, the tools worth in
 - [Getting the most out of Claude Tag](https://vishwaclaudema.vercel.app/learn/claude-tag/): 10 steps, from Anthropic's own pages, checked 2026-10-04.
 - [Getting the most out of the API](https://vishwaclaudema.vercel.app/learn/api/): 10 steps, from Anthropic's own pages, checked 2026-10-04.
 - [This week in Claude](https://vishwaclaudema.vercel.app/week/): what changed in Claude each week, checked against Anthropic's pages.
+- [Best of the web](https://vishwaclaudema.vercel.app/learn/best/): picked reels, videos, posts and articles about working with Claude, each with a one-line takeaway and its creator credited.
 
 ## Find tools
 - [Find tools](https://vishwaclaudema.vercel.app/discover/): search 3,497 Claude skills, plugins and MCP servers from Anthropic's catalogues, skills.sh, GitHub and the MCP registry, with an install prompt for each.
