@@ -12,6 +12,7 @@ Each starter kit is a one-paste setup prompt for Claude Code, the tools worth in
 
 ## Improve a project you already have
 - [Tidy your Claude setup](https://vishwaclaudema.vercel.app/improve/setup/): Any project you already work on with Claude.
+- [Add a feature](https://vishwaclaudema.vercel.app/improve/feature/): A project that works, and a new thing you want it to do.
 - [Make it look better](https://vishwaclaudema.vercel.app/improve/design/): A site or app that works but looks generic or dated.
 - [Sharper words](https://vishwaclaudema.vercel.app/improve/copy/): Headlines, landing pages and calls to action that don't land.
 - [Get found](https://vishwaclaudema.vercel.app/improve/seo/): A public site that search engines and AI answers should cite.
