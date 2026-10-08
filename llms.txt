@@ -9,6 +9,7 @@ Each starter kit is a one-paste setup prompt for Claude Code, the tools worth in
 - [Start a mobile app](https://vishwaclaudema.vercel.app/start/mobile/): Expo, React Native or Swift apps.
 - [Start an automation](https://vishwaclaudema.vercel.app/start/automation/): Scripts, crons, bots and anything that should run without you.
 - [Start a writing or documents project](https://vishwaclaudema.vercel.app/start/writing/): Reports, proposals, research and decks, mostly outside code.
+- [The foundation](https://vishwaclaudema.vercel.app/start/foundation/): the habits and tools every kit installs, how to use them, how to write CLAUDE.md, and a prompt that sets them up in any project.
 
 ## Improve a project you already have
 - [Tidy your Claude setup](https://vishwaclaudema.vercel.app/improve/setup/): Any project you already work on with Claude.
