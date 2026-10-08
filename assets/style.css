@@ -809,6 +809,10 @@ main [id$="-h"], #full { scroll-margin-top: 3.5rem; }
 .chg-to-review, .chg-unverified { background: var(--sig-soft); border-color: transparent; }
 .changes li { padding: 0; border: 0; margin: 0; }
 
+/* Round-up items ("Claude Code this week"): a short list of changes, wrapped inside the column */
+.points { margin: .4rem 0 0; padding-left: 1.1rem; display: grid; gap: .3rem; }
+.points li, .points code { overflow-wrap: anywhere; }
+
 
 /* Public site additions, appended after hq/app/globals.css (copied verbatim by tools/build-site).
    Only what the dashboard does not have. Same tokens, same grammar: hairlines, air, one accent. */
