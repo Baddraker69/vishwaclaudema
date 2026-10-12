@@ -9,11 +9,9 @@ Each starter kit is a one-paste setup prompt for Claude Code, the tools worth in
 - [Start a mobile app](https://vishwaclaudema.vercel.app/start/mobile/): Expo, React Native or Swift apps.
 - [Start an automation](https://vishwaclaudema.vercel.app/start/automation/): Scripts, crons, bots and anything that should run without you.
 - [Start a writing or documents project](https://vishwaclaudema.vercel.app/start/writing/): Reports, proposals, research and decks, mostly outside code.
-- [The foundation](https://vishwaclaudema.vercel.app/start/foundation/): the habits and tools every kit installs, how to use them, how to write CLAUDE.md, and a prompt that sets them up in any project.
 
 ## Improve a project you already have
 - [Tidy your Claude setup](https://vishwaclaudema.vercel.app/improve/setup/): Any project you already work on with Claude.
-- [Add a feature](https://vishwaclaudema.vercel.app/improve/feature/): A project that works, and a new thing you want it to do.
 - [Make it look better](https://vishwaclaudema.vercel.app/improve/design/): A site or app that works but looks generic or dated.
 - [Sharper words](https://vishwaclaudema.vercel.app/improve/copy/): Headlines, landing pages and calls to action that don't land.
 - [Get found](https://vishwaclaudema.vercel.app/improve/seo/): A public site that search engines and AI answers should cite.
@@ -35,5 +33,5 @@ Each starter kit is a one-paste setup prompt for Claude Code, the tools worth in
 - [Best of the web](https://vishwaclaudema.vercel.app/learn/best/): picked reels, videos, posts and articles about working with Claude, each with a one-line takeaway and its creator credited.
 
 ## Find tools
-- [Find tools](https://vishwaclaudema.vercel.app/discover/): search 3,593 Claude skills, plugins and MCP servers from Anthropic's catalogues, skills.sh, GitHub and the MCP registry, with an install prompt for each.
+- [Find tools](https://vishwaclaudema.vercel.app/discover/): search 3,364 Claude skills, plugins and MCP servers from Anthropic's catalogues, skills.sh, GitHub and the MCP registry, with an install prompt for each.
 - [Full index as JSON](https://vishwaclaudema.vercel.app/data/tools.json): name, kind, repo, description, installs, stars, growth, tasks, flags, and the pinned install command for vetted tools.
