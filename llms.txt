@@ -6,7 +6,7 @@
 Each starter kit is a one-paste setup prompt for Claude Code, the tools worth installing (each safety-scanned and reviewed), and a first week.
 - [Start a website or web app](https://vishwaclaudema.vercel.app/start/website/): Sites and web apps (Next.js, React, Astro and the like).
 - [Start an app that uses Claude](https://vishwaclaudema.vercel.app/start/ai-feature/): Anything that sends prompts to Claude through the API or an SDK.
-- [Start a mobile app](https://vishwaclaudema.vercel.app/start/mobile/): Expo, React Native or Swift apps.
+- [Start a mobile app](https://vishwaclaudema.vercel.app/start/mobile/): Expo and React Native apps. Native Swift is not covered yet.
 - [Start an automation](https://vishwaclaudema.vercel.app/start/automation/): Scripts, crons, bots and anything that should run without you.
 - [Start a writing or documents project](https://vishwaclaudema.vercel.app/start/writing/): Reports, proposals, research and decks, mostly outside code.
 
